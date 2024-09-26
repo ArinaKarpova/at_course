@@ -1,5 +1,4 @@
-import page as page
-import self as self
+
 from playwright.sync_api import Page
 
 
